@@ -1,0 +1,9 @@
+[package]
+name = "extract-references"
+version = "0.1.0"
+authors = ["Maximilian Goisser <goisser94@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pdf-extract = "0.4.6"
+lopdf = "0.19.0"
