@@ -1,5 +1,5 @@
 /target
 **/*.rs.bk
 
-test/external_data/*
-!test/external_data/fetch_list
+tests/external_data/*
+!tests/external_data/fetch_list

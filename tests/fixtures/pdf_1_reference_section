@@ -1,0 +1,175 @@
+[1] F. Baader, S. Brandt, and C. Lutz. Pushing the EL Envelope. In
+Proceedings of the Nineteenth International Joint Conference
+on Artiﬁcial Intelligence, Oct. 2005.
+[2] F. Baader, S. Brandt, and C. Lutz. Pushing the EL Envelope
+Further. In Proceedings of the OWLED 2008 DC Workshop on
+OWL: Experiences and Directions, 2008.
+[3] F. Baader, C. Lutz, and B. Suntisrivaraporn. Is Tractable Rea-
+soning in Extensions of the Description Logic EL Useful in
+Practice? In Proceedings of the Methods for Modalities Work-
+shop, 2005.
+[4] F. Baader, B. Ganter, B. Sertkaya, and U. Sattler. Completing
+description logic knowledge bases using formal concept anal-
+ysis. In IJCAI, pages 230–235, 2007.
+[5] F. Baader, C. Lutz, and B. Suntisrivaraporn. CEL - A
+Polynomial-time Reasoner for Life Science Ontologies. In
+Proceedings of the 3rd International Joint Conference on Au-
+tomated Reasoning, volume 4130, pages 287–291. Springer,
+2006.
+[6] F. Baader, C. Lutz, and A.-Y. Turhan. Small is Again Beautiful
+in Description Logics. KI - Künstliche Intelligenz, 24(1):25–
+33, Feb. 2010.
+[7] F. Baader, D. Calvanese, D. L. McGuinness, D. Nardi, and P.
+F. Patel-Schneider, editors. The Description Logic Handbook.
+Cambridge University Press, 2nd edition, 2007.
+[8] S. Bail, B. Parsia, and U. Sattler. JustBench: A Framework for
+OWL Benchmarking. The Semantic Web - ISWC 2010, 2010.
+[9] J. Bock, P. Haase, Q. Ji, and R. Volz. Benchmarking OWL
+reasoners. In ARea2008 - Workshop on Advancing Reasoning
+on the Web: Scalability and Commonsense, 2008.
+[10] S. Brandt. Polynomial Time Reasoning in a Description Logic
+with Existential Restrictions, GCI Axioms, and-What Else? In
+ECAI, volume 16, pages 298–302, 2004.
+[11] J. Broekstra, A. Kampman, and F. Van Harmelen. Sesame: A
+generic Architecture for Storing and Querying RDF and RDF
+Schema. The Semantic Web - ISWC 2002, 2342:54–68, 2002.
+[12] J. J. Carroll, I. Dickinson, C. Dollin, D. Reynolds, A. Seaborne,
+and K. Wilkinson. Jena: Implementing the Semantic Web Rec-
+ommendations, 2004.
+[13] R. Cornet and N. de Keizer. Forty years of SNOMED: a liter-
+ature review. BMC medical informatics and decision making,
+2008.
+[14] F. Donini, M. Lenzerini, D. Nardi, and A. Schaerf. Reasoning
+in Description Logics. Principles of knowledge representation,
+pages 191–236, 1996.
+[15] T. Gardiner, D. Tsarkov, and I. Horrocks. Framework for an
+Automated Comparison of Description Logic Reasoners. In
+The Semantic Web - ISWC 2006, volume 4273, pages 654–667.
+Springer, 2006.
+[16] B. Grau, I. Horrocks, and Y. Kazakov. Modular Reuse of On-
+tologies: Theory and Practice. Journal of Artiﬁcial Intelli-
+gence, 31:273–318, 2008.
+[17] Y. Guo, Z. Pan, and J. Heﬂin. LUBM: A Benchmark for OWL
+Knowledge Base Systems. Web Semantics: Science, Services
+and Agents on the World Wide Web, 3(2-3):158–182, 2005.
+[18] V. Haarslev, R. Möller, and S. Wandelt. The revival of struc-
+tural subsumption in tableau-based description logic reason-
+ers. In Proceedings of the 2008 International Workshop on
+Description Logics, 2008.
+ [19] V. Haarslev and R. Müller. RACER System Description. Au-
+tomated Reasoning, 2083:701–705, 2001.
+[20] M. Horridge and S. Bechhofer. The OWL API: A Java API for
+Working with OWL 2 Ontologies. In 6th OWL Experienced
+and Directions Workshop, 2009.
+[21] M. Horridge, B. Parsia, and U. Sattler. Justiﬁcation Oriented
+Proofs in OWL. In The Semantic Web - ISWC 2010, volume
+6496, pages 354–369. Springer, 2010.
+[22] I. Horrocks. Optimising tableaux decision procedures for de-
+scription logics. PhD thesis, University of Manchester, 1997.
+[23] I. Horrocks, U. Sattler, and S. Tobies. Practical Reasoning
+for Very Expressive Description Logics. Logic Journal of the
+IGPL, 8(3):239–264, 2000.
+[24] Y. Kazakov. SRIQ and SROIQ are Harder than SHOIQ. In
+Proceedings of the 21st International Workshop on Description
+Logics, 2008.
+[25] Y. Kazakov. Consequence-Driven Reasoning for Horn SHIQ
+Ontologies. In Proceedings of the 21st International Confer-
+ence on Artiﬁcial Intelligence, pages 2040–2045, 2009.
+[26] A. Kiryakov, D. Ognyanov, and D. Manov. OWLIM - A Prag-
+matic Semantic Repository for OWL. In Web Information Sys-
+tems Engineering Workshops, pages 182–192. Springer, 2005.
+[27] B. Konev, C. Lutz, D. Walther, and F. Wolter. Formal Prop-
+erties of Modularisation. Modular Ontologies, 5445:25–66,
+2009.
+[28] M. Krötzsch, S. Rudolph, and P. Hitzler. Description Logic
+Rules. In Proceedings of the 18th European Conference on
+Artiﬁcial Intelligenc, pages 80–84. IOS Press, 2008.
+[29] M. Krötzsch, S. Rudolph, and P. Hitzler. ELP: Tractable Rules
+for OWL 2. In The Semantic Web - ISWC 2008, pages 649–
+664. Springer, 2008.
+[30] M. Lawley and C. Bousquet. Fast Classiﬁcation in Protege:
+Snorocket as an OWL2 EL Reasoner. In Australasian Ontology
+Workshop, 2010.
+[31] T. Liebig. Reasoning with OWL - System Support and Insights,
+2006.
+[32] T. Liebig, M. Luther, O. Noppens, M. Rodriguez, D. Cal-
+vanese, M. Wessel, R. Möller, M. Horridge, S. Bechhofer,
+D. Tsarkov, and Others. OWLlink: DIG for OWL 2. In 5th
+OWL Experienced and Directions Workshop, 2008.
+[33] M. Luther, T. Liebig, S. Böhm, and O. Noppens. Who the
+Heck Is the Father of Bob? In 6th European Semantic Web
+Conference, pages 66–80, 2009.
+[34] L. Ma, Y. Yang, Z. Qiu, G. Xie, Y. Pan, and S. Liu. Towards
+a Complete OWL Ontology Benchmark. The Semantic Web:
+Research and Applications, 4011:125–139, 2006.
+[35] J. Mendez and B. Suntisrivaraporn. Reintroducing CEL as an
+OWL 2 EL Reasoner. In Proceedings of the 2009 International
+Workshop on Description Logics, volume 477, 2009.
+[36] R. Mishra and S. Kumar. Semantic web reasoners and lan-
+guages. Artiﬁcial Intelligence Review, 35:339–368, 2010.
+[37] B. Motik, R. Shearer, and I. Horrocks. Optimized Reasoning
+in Description Logics using Hypertableaux. In Proceedings
+of the 21st International Conference on Automated Deduction,
+volume 4603, pages 67–83. Springer, 2007.
+[38] B. Motik and R. Studer. KAON2 - A Scalable Reasoning Tool
+for the Semantic Web. Proceedings of the 2nd European Se-
+mantic Web Conference, 2005.
+[39] B. Parsia, C. Halaschek-Wiener, and E. Sirin. Towards Incre-
+mental Reasoning Through Updates in OWL-DL. In Reason-
+ing on the Web, 2006.
+
+K. Dentler et al. / Comparison of Reasoners for large OWL 2 EL Ontologies 17
+
+[40] B. Parsia, C. Halaschek-Wiener and E. Sirin. Towards incre-
+mental reasoning through updates in OWL-DL. Reasoning on
+the Web, 2006.
+[41] Y. Ren, J. Pan, and Y. Zhao. Soundness Preserving Approxi-
+mation for TBox Reasoning. In Proceedings of the 25th AAAI
+Conference, 2010.
+[42] A. Riazanov and A. Voronkov. Vampire 1.1. Automated Rea-
+soning, 2001.
+[43] S. Rudolph, T. Tserendorj, and P. Hitzler. What Is Approximate
+Reasoning? Web Reasoning and Rule Systems, 5341:150–164,
+2008.
+[44] R. Shearer, B. Motik, and I. Horrocks. HermiT: a Highly-
+Efﬁcient OWL Reasoner. In 5th OWL Experienced and Direc-
+tions Workshop, 2008.
+[45] E. Sirin and B. Parsia. SPARQL-DL: SPARQL Query for
+OWL-DL. In 3rd OWL Experiences and Directions Workshop,
+volume 4, 2007.
+[46] E. Sirin, B. Parsia, B. Grau, a. Kalyanpur, and Y. Katz. Pel-
+let: A practical OWL-DL reasoner. Web Semantics: Science,
+Services and Agents on the World Wide Web, 5(2):51–53, June
+2007.
+[47] Stuckenschmidt, H. and Parent, C. and Spaccapietra, S. Modu-
+lar Ontologies: Concepts, Theories and Techniques for Knowl-
+edge Modularization. Springer, 2009.
+[48] B. Suntisrivaraporn. Empirical evaluation of reasoning in
+lightweight DLs on life science ontologies. In Proceedings of
+the 2nd Mahasarakham International Workshop on AI, 2008.
+ [49] B. Suntisrivaraporn. Module Extraction and Incremental Clas-
+siﬁcation: a Pragmatic Approach for EL+ Ontologies. In Pro-
+ceedings of the 5th European Semantic Web Conference, pages
+230–244. Springer, 2008.
+[50] B. Suntisrivaraporn. Polynomial-Time Reasoning Support for
+Design and Maintenance of Large-Scale Biomedical Ontolo-
+gies. PhD thesis, TU Dresden, 2009.
+[51] E. Thomas, J. Pan, and Y. Ren. TrOWL: Tractable OWL 2 Rea-
+soning Infrastructure. In Proceedings of the Extended Semantic
+Web Conference. Springer, 2010.
+[52] S. Tobies. Complexity Results and Practical Algorithms for
+Logics in Knowledge Representation. PhD thesis, RWTH
+Aachen, 2001.
+[53] D. Tsarkov and I. Horrocks. FaCT++ Description Logic Rea-
+soner: System Description. In Third International Joint Con-
+ference on Automated Reasoning, pages 292–297. Springer,
+2006.
+[54] A. Turhan, S. Bechhofer, A. Kaplunova, T. Liebig, M. Luther,
+R. Möller, O. Noppens, P. Patel-Schneider, B. Suntisrivara-
+porn, and T. Weithöner. DIG 2.0 - Towards a Flexible Inter-
+face for Description Logic Reasoners. In Proc. of the OWL
+Experiences and Directions Workshop at the ISWC, volume 6.
+Citeseer, 2006.
+[55] T. Weithöner, T. Liebig, M. Luther, S. Böhm, F. Von Henke,
+and O. Noppens. Real-World Reasoning with OWL. The Se-
+mantic Web: Research and Applications, 4519:296–310, 2007.
